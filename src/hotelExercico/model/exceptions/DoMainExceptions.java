@@ -8,3 +8,16 @@ public class DoMainExceptions extends RuntimeException {
 		super(msg);
 	}
 }
+// ********* RuntimeException *******
+/*  ESSE EXECAO
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * */
+
